@@ -3,9 +3,7 @@ simple php file-caching class.
 ### How to use
 require cache class
 ```php
-<?php
-  require("cache.php");
-?>
+require("cache.php");
 ```
 get data from class
 ```php
